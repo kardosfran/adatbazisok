@@ -1,4 +1,4 @@
---táblák létrehozás
+--táblák létrehozása
 
 CREATE TABLE ZipCodes (
     ZipCode VARCHAR(10) PRIMARY KEY,
