@@ -1,2 +1,2 @@
 # adatbazisok
-csoportos feladat tagjai: Kardos Franciska, Stubinszky Nóra, Gáll Eliza Eszter
+csoportos feladat tagjai: Kardos Franciska, Stubinszky Nóra, Gáll Eszter Eliza
