@@ -30,3 +30,6 @@ ORDER BY szereplok_szama DESC
 LIMIT 1
 RETURN film, szereplok_szama
 
+db.sample_mflix.find({email:{$regex /.com/}},
+{"name":1, "email":1})
+
